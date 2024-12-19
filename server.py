@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Telegram Bot Configuration
 TELEGRAM_BOT_TOKEN = "7651061888:AAEDgDzqVjhKTO-u467eCFMCK5dIMLqLqAY"  # Замените на ваш токен
-TELEGRAM_CHAT_ID = "8073657873"  # Замените на ваш Chat ID
+TELEGRAM_CHAT_ID = "-1002434452494"  # Замените на ваш Chat ID
 
 # Глобальные переменные для состояния
 redirect_event = threading.Event()
